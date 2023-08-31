@@ -1,0 +1,15 @@
+D:\.NET\Day6\ImplicitVariables\ImplicitVariables\bin\Debug\net7.0\ImplicitVariables.exe
+D:\.NET\Day6\ImplicitVariables\ImplicitVariables\bin\Debug\net7.0\ImplicitVariables.deps.json
+D:\.NET\Day6\ImplicitVariables\ImplicitVariables\bin\Debug\net7.0\ImplicitVariables.runtimeconfig.json
+D:\.NET\Day6\ImplicitVariables\ImplicitVariables\bin\Debug\net7.0\ImplicitVariables.dll
+D:\.NET\Day6\ImplicitVariables\ImplicitVariables\bin\Debug\net7.0\ImplicitVariables.pdb
+D:\.NET\Day6\ImplicitVariables\ImplicitVariables\obj\Debug\net7.0\ImplicitVariables.csproj.AssemblyReference.cache
+D:\.NET\Day6\ImplicitVariables\ImplicitVariables\obj\Debug\net7.0\ImplicitVariables.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Day6\ImplicitVariables\ImplicitVariables\obj\Debug\net7.0\ImplicitVariables.AssemblyInfoInputs.cache
+D:\.NET\Day6\ImplicitVariables\ImplicitVariables\obj\Debug\net7.0\ImplicitVariables.AssemblyInfo.cs
+D:\.NET\Day6\ImplicitVariables\ImplicitVariables\obj\Debug\net7.0\ImplicitVariables.csproj.CoreCompileInputs.cache
+D:\.NET\Day6\ImplicitVariables\ImplicitVariables\obj\Debug\net7.0\ImplicitVariables.dll
+D:\.NET\Day6\ImplicitVariables\ImplicitVariables\obj\Debug\net7.0\refint\ImplicitVariables.dll
+D:\.NET\Day6\ImplicitVariables\ImplicitVariables\obj\Debug\net7.0\ImplicitVariables.pdb
+D:\.NET\Day6\ImplicitVariables\ImplicitVariables\obj\Debug\net7.0\ImplicitVariables.genruntimeconfig.cache
+D:\.NET\Day6\ImplicitVariables\ImplicitVariables\obj\Debug\net7.0\ref\ImplicitVariables.dll

@@ -1,0 +1,15 @@
+D:\.NET\Day6\AsyncCode1\AsyncCode1\bin\Debug\net7.0\AsyncCode1.exe
+D:\.NET\Day6\AsyncCode1\AsyncCode1\bin\Debug\net7.0\AsyncCode1.deps.json
+D:\.NET\Day6\AsyncCode1\AsyncCode1\bin\Debug\net7.0\AsyncCode1.runtimeconfig.json
+D:\.NET\Day6\AsyncCode1\AsyncCode1\bin\Debug\net7.0\AsyncCode1.dll
+D:\.NET\Day6\AsyncCode1\AsyncCode1\bin\Debug\net7.0\AsyncCode1.pdb
+D:\.NET\Day6\AsyncCode1\AsyncCode1\obj\Debug\net7.0\AsyncCode1.csproj.AssemblyReference.cache
+D:\.NET\Day6\AsyncCode1\AsyncCode1\obj\Debug\net7.0\AsyncCode1.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Day6\AsyncCode1\AsyncCode1\obj\Debug\net7.0\AsyncCode1.AssemblyInfoInputs.cache
+D:\.NET\Day6\AsyncCode1\AsyncCode1\obj\Debug\net7.0\AsyncCode1.AssemblyInfo.cs
+D:\.NET\Day6\AsyncCode1\AsyncCode1\obj\Debug\net7.0\AsyncCode1.csproj.CoreCompileInputs.cache
+D:\.NET\Day6\AsyncCode1\AsyncCode1\obj\Debug\net7.0\AsyncCode1.dll
+D:\.NET\Day6\AsyncCode1\AsyncCode1\obj\Debug\net7.0\refint\AsyncCode1.dll
+D:\.NET\Day6\AsyncCode1\AsyncCode1\obj\Debug\net7.0\AsyncCode1.pdb
+D:\.NET\Day6\AsyncCode1\AsyncCode1\obj\Debug\net7.0\AsyncCode1.genruntimeconfig.cache
+D:\.NET\Day6\AsyncCode1\AsyncCode1\obj\Debug\net7.0\ref\AsyncCode1.dll
